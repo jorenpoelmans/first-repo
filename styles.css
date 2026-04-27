@@ -1,7 +1,7 @@
 
 body {
     margin: 0;
-    font-fmily: Arial, sans-serif;
+    font-family: Arial, sans-serif;
     background: #0b0b0b;
     color: #e5e5e5;
 }
@@ -13,7 +13,7 @@ body {
 .titlewrapper {
     background: #1f1f1f;
     border: 1px solid #333;
-    paing: 20px;
+    padding: 20px;
     margin-bottom: 20px;
     text-align: center;
 }
@@ -45,7 +45,7 @@ li {
 
 .fotowrapper {
     display: flex;
-    juent: center;   
+    justify-content: center;   
     align-items: center;       
     margin: 20px auto;
 }
@@ -53,7 +53,7 @@ li {
 .fotowrapper img {
     width: 100%;
     max-width: 600px;  
-    heit: auto;       
+    height: auto;       
     border-radius: 8px;
     border: 1px solid #333;
 }
